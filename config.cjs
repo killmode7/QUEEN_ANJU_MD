@@ -1,4 +1,4 @@
-module.exports = {
+J.Imodule.exports = {
   "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
@@ -20,7 +20,7 @@ module.exports = {
   "OWNER_NAME": "MR JANIYA",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
-  "AUTO_RECORDING": true,
+  "AUTO_RECORDING": false,
   "AUTO_NEWS": false,
   "OWNER_REACT": false,
   "EMOJI": "🏷"
